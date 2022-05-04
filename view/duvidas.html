@@ -4,27 +4,20 @@
     <title>Zoo ADG</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script
+    src="https://code.jquery.com/jquery-3.3.1.js"
+    integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+    crossorigin="anonymous">
+</script>
+<script> 
+$(function(){
+  $("#header").load("template/header.html"); 
+  $("#footer").load("template/footer.html"); 
+});
+</script> 
   </head>
   <body>
-    <div class="tudo">
-    <div>
-    <img class="imagembarra"
-      src="https://cdn.discordapp.com/attachments/541387607649812500/969615213122977822/teste.png">
-    </div>
-    
-    
-    <nav class="nav" id="menu">
-      <ul>
-        <li><a href="index.html">Home</a>
-          <li><a href="sobre.html">Sobre</a>
-           <li><a href="view\animais.html">Animais</a>
-            <li><a href="vegetacao.html">Vegetação</a>
-        </li>
-        <li><a href="comochegar.html">Como Chegar</a>
-        <li><a href="duvidas.html">Dúvidas</a>
-          <li><a href="infra.html">Infraestrutura</a>
-      </ul>
-    </nav>    
+    <div id="header"></div>   
 
   </body>
 </html>
@@ -78,19 +71,9 @@ Resposta: Não, há parques na cidade para estas atividades, mas no zoo não sã
 <b> - O Zoo recebe cães e gatos para doação? </b> <br>
 Resposta: Cães e gatos são animais domésticos, e devem ser encaminhados aos órgãos responsáveis, como os Centros de Controle Zoonoses ou ONG's de proteção animal. <br> <br> <br>
 <b> Caso sua dúvida não tenha sido respondida em nenhum destes topicos acima, digite sua pergunta aqui! </b> <br><br>
-<form name="duvida" method="post" action="qualquercoisa.jsp">
-        <fieldset>
-            <legend><h3> Dúvidas </h3></legend>
-                Nome: <br>
-                <input type="text" name="vnome" placeholder="Digite seu nome"> <br>
-                Email: <br>
-                <input type="text" name="vemail" placeholder="Digite seu email"> <br>
-                Dúvida: <br>
-                <input type="text" name="vduvida" placeholder="Digite sua dúvida"> <br>
-                <br>
-                <input type="submit" value="ENVIAR" class="bota1">
 
-        </fieldset>
-        </form>
+
+</div>
 <div class="letrasso">
-<b>O abandono de animais é crime!</b></div>
+  <b>O abandono de animais é crime!</b></div>
+<div id="footer"></div>
