@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <title>Zoo ADG</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script
+    src="https://code.jquery.com/jquery-3.3.1.js"
+    integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+    crossorigin="anonymous">
+</script>
+<script> 
+$(function(){
+  $("#header").load("template/header.html"); 
+  $("#footer").load("template/footer.html"); 
+});
+</script> 
+  </head>
+  <body>
+<div id="header"></div>
+    <div class="botou">   
+    <input type="button" onclick="window.location.href = 'aves.html';" value="Aves" class="bota">
+    <input type="button" onclick="window.location.href = 'mamiferos.html';" value="Mamíferos" class="bota">
+    <input type="button" onclick="window.location.href = 'repteis.html';" value="Reptéis" class="bota"> <br> <br>
+    </div>
+    <tr><td><div class="imagem-animais">
+        <img
+        class="imagem-animais" src="https://www.infoescola.com/wp-content/uploads/2018/03/sagui-de-tufos-brancos_790108426.jpg"/>
+        </div></td>
+    <td><div class="texto">
+      <p>
+        <b>Nossa missão é a Preservação e conservação da biodiversidade em primeiro lugar.</b>
+        <p>
+</div></td></tr>
+
+<div id="footer"></div>
+  </body>
+</html>
