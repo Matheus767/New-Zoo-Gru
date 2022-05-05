@@ -9,7 +9,8 @@
 .mapa {
   margin: 0 auto;
 }
-/* ! CSS DO CORPO DO HTML E DA FOTO DE FUNDO */
+
+/* ! CSS DO CORPO DO HTML E DA FOTO DE FUNDO ======================================================================= */
 body {
   -moz-osx-font-smoothing: grayscale;
 
@@ -48,6 +49,9 @@ body {
   text-align: justify;
 }
 
+#fot {
+  text-align: center;
+}
 h1 {
   font-weight: 200;
 
@@ -68,6 +72,11 @@ h1 {
   box-shadow: 0 3px 15px rgba(0, 0, 0, 0.15);
 
   transition: all 1s;
+  
+}
+#menu li {
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 nav::after {
