@@ -27,16 +27,16 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/62734383?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+      <a href="https://github.com/Matheus767">
+        <img src="https://avatars.githubusercontent.com/u/62734383?v=4" width="100px;" alt="Foto do Matheus Santos Castiço no GitHub"/><br>
         <sub>
           <b>Matheus Santos Castiço</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/102176193?v=4" width="100px;" alt="Foto do Steve Jobs"/><br>
+      <a href="https://github.com/Yas-min176">
+        <img src="https://avatars.githubusercontent.com/u/102176193?v=4" width="100px;" alt="Foto da Yasmin Sena Baban"/><br>
         <sub>
           <b>Yasmin Sena Baban</b>
         </sub>
@@ -45,4 +45,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#New-Zoo-Gru)<br>
