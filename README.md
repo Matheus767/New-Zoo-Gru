@@ -1,4 +1,4 @@
-# Zoo-ADG
+# New-Zoo-Gru
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -8,9 +8,9 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Matheus767/New-Zoo-Gru?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Matheus767/New-Zoo-Gru?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="view\img\Zoo.png" alt="exemplo imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Projeto destinado ao portifólio da matéria WEBSTANDARTS dos cursos análise e desenvolvimento de sistemas & engenharia da computação.
 
 
 ## 💻 Pré-requisitos
@@ -36,7 +36,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://github.com/Yas-min176">
-        <img src="https://avatars.githubusercontent.com/u/102176193?v=4" width="100px;" alt="Foto da Yasmin Sena Baban"/><br>
+        <img src="https://avatars.githubusercontent.com/u/102176193?v=4" width="100px;" alt="Foto da Yasmin Sena Baban no GitHub"/><br>
         <sub>
           <b>Yasmin Sena Baban</b>
         </sub>
@@ -45,4 +45,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-[⬆ Voltar ao topo](#Zoo-ADG)<br>
+[⬆ Voltar ao topo](#New-Zoo-Gru)<br>
